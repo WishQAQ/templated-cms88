@@ -1,0 +1,43 @@
+<?php
+$z[0]=Array("global","",554,580);
+$z[0][4]['name']="cfg_webname";
+$z[1]=Array("global","",624,654);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",691,718);
+$z[2][4]['name']="cfg_keywords";
+$z[3]=Array("global","",756,781);
+$z[3][4]['name']="cfg_cmsurl";
+$z[4]=Array("include","",886,921);
+$z[4][4]['filename']="head.htm";
+$z[5]=Array("global","",1050,1076);
+$z[5][4]['name']="cfg_webname";
+$z[6]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1252,1335);
+$z[6][4]['typeid']="1";
+$z[7]=Array("type"," <a href=\"[field:typelink/]\">[field:typename/]</a>",1368,1452);
+$z[7][4]['typeid']="2";
+$z[8]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a> ",1466,1550);
+$z[8][4]['typeid']="3";
+$z[9]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1587,1670);
+$z[9][4]['typeid']="4";
+$z[10]=Array("type"," <a href=\"[field:typelink/]\">[field:typename/]</a>",1703,1787);
+$z[10][4]['typeid']="5";
+$z[11]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a> ",1801,1885);
+$z[11][4]['typeid']="6";
+$z[12]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1922,2005);
+$z[12][4]['typeid']="7";
+$z[13]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2026,2109);
+$z[13][4]['typeid']="8";
+$z[14]=Array("type"," <a href=\"[field:typelink/]\">[field:typename/]</a>",2142,2226);
+$z[14][4]['typeid']="9";
+$z[15]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a> ",2240,2325);
+$z[15][4]['typeid']="10";
+$z[16]=Array("type"," <a href=\"[field:typelink/]\">[field:typename/]</a>",2340,2425);
+$z[16][4]['typeid']="11";
+$z[17]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a> ",2439,2524);
+$z[17][4]['typeid']="12";
+$z[18]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2561,2645);
+$z[18][4]['typeid']="13";
+$z[19]=Array("include","",8544,8581);
+$z[19][4]['filename']="footer.htm";
+
+?>

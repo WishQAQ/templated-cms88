@@ -1,0 +1,1 @@
+<li><a href="[field:arcurl/]" rel="gallery2" class="pop_img"><img src="[field:picname/]" alt="[field:title/]" /><span class="hover"></span><em></em></a></li>
